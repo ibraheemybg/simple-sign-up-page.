@@ -1,0 +1,65 @@
+.allo{
+  height:600px;
+  width: 350px;
+  background-color: grey;
+
+}
+.jumm{
+  background-color: orange;
+  top: 20px;
+}
+.btn{
+  width: 150px;
+  height: 25px;
+  background-color: orange;
+}
+.jutt{
+  background-color: #1c364f;
+  margin-left: 450px;
+  font-family: sans-serif;
+  text-align: center;
+}
+.left{
+  text-align: left;
+}
+
+.em{
+  height: 20px;
+  width: 300px
+}
+.tel{
+  height: 20px;
+  width: 300px
+}
+.nat{
+  height: 20px;
+  width: 300px
+}
+.nam{
+  height: 20px;
+  width: 300px
+}
+.pw{
+  height: 20px;
+  width: 300px
+}
+.sign{
+  text-decoration: none;
+}
+a{
+ color: indigo;
+}
+
+.bb{
+  background-color: powderblue;
+}
+.pas{
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  background-color: grey;
+  height: 200px;
+  width: 1000px;
+}
